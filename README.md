@@ -2,7 +2,7 @@
 
 ### Building Game
 
-Note: there should already be a build of the game in the Project folder. These instructions are here for completeness.
+Note: there should already be a build of the game in the Project folder. These instructions are here for completeness. May take a while to build on first run.
 
 1.	install Unity Hub from https://unity.com/download
 2.	open Unity Hub, click on Installs, click on Install Editor, and install Unity version 2021.3.14f1
