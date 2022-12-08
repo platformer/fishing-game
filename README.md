@@ -1,6 +1,7 @@
 # fishing-game
 
 To build and run the game, you must install Unity Hub and then use Unity Hub to install Unity version 2021.3.14f1. Open the root directory of the project from Unity Hub.
+Load the Default_Scene.unity to load the game scene in the scenario that the game scene isn't loaded.
 
 ### Building Game
 
